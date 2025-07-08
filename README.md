@@ -4,7 +4,7 @@
 ![](pics/dataset.png)
 
 $$
-\text{Figure 5: Dataset}
+\text{Figure: Dataset}
 $$
 
 #### Evaluation
@@ -13,5 +13,5 @@ $$
 ![](pics/training.png)
 
 $$
-\text{Figure 5: Accuracy Over Epochs/Training Time}
+\text{Figure: Accuracy Over Epochs/Training Time}
 $$
